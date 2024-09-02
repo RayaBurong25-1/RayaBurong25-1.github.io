@@ -38,4 +38,8 @@ blogs =
     {"topic":"2023"},
     {"name":"blog/2023/waves/waves-thumbnail.png", "link":"blog/2023/waves/waves.html", "desc":"8/23: Waves"},
     {"close":true},
+
+    {"topic":"2024"},
+    {"name":"blog/2024/transitioning/transitioning.jpg", "link":"blog/2023/transitioning/transitioning.html", "desc":"9/1: Transitioning"},
+    {"close":true},
 ]
