@@ -40,6 +40,6 @@ blogs =
     {"close":true},
 
     {"topic":"2024"},
-    {"name":"blog/2024/transitioning/transitioning.jpg", "link":"blog/2023/transitioning/transitioning.html", "desc":"9/1: Transitioning"},
+    {"name":"blog/2024/transitioning/transitioning.jpg", "link":"blog/2024/transitioning/transitioning.html", "desc":"9/1: Transitioning"},
     {"close":true},
 ]
